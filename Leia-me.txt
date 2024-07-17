@@ -1,0 +1,6 @@
+O que falta????
+
+	- Organizar arquivo css
+	- Organizar arquivo index
+	- Programar botão envio para enviar e-mail real
+	- Desafio curriculum em pdf
